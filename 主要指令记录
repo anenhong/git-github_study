@@ -1,0 +1,14 @@
+一.初始化设置
+  1.git config --global user.name 'xxxx'
+  2.git config --global user.email 'xxxx.com'
+  3.git config --list
+二.git 常用指令
+  1.git clone "http:xxxxxxx"
+  2.git init
+  3.git status
+  4.git commit [文件路径] -m "提交说明"
+  5.git add .  
+  6.git branch
+  7.git push origin  '分支名'           推送分支到远程仓库 
+ 
+
